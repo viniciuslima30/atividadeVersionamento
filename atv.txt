@@ -1,7 +1,19 @@
 repo da empresa que usuário não tem acesso.
 
-1 Passo feito: git clone https://github.com/viniciuslima30/atividadeVersionamento
-2 Passo feito: git checkout master
+1 Passo feito: git clone https://github.com/viniciuslima30/atividadeVersionamento - Clona o repositório 
+2 Passo feito: git checkout master - Entra na branch da master
 3 Passo feito: git pull - puxar atualizações do projeto
-4 Passo feito: git checkout -b criação-da-primeira-branch
+4 Passo feito: git checkout -b criação-da-primeira-branch - Cria e entra na nova branch
+
 Passos desenvolvidos acima serão commitados
+
+5 Passo feito: git add . - adiciona o arquivo .txt
+6 Passo feito: git status - para ver as alterações feitas
+7 Passo feito: git commit -m "feature: clone, branch, commit" - Commita na nova branch
+8 Passo feito: git push -u origin criação-da-primeira-branch - Da um push da branch pra origem
+9 Passo feito: git checkout master - Volta pra master
+10 Passo feito: git pull origin master - Puxa as atualizações da master
+11 Passo feito: git merge criação-da-primeira-branch - Da o merge da master com a branch nova
+12 Passo feito: git push origin master - Da um push nas alterações
+
+Passos desenvolvido acima serão comitador na mesma branch atualizados
