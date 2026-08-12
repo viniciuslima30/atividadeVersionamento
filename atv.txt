@@ -1,2 +1,7 @@
 repo da empresa que usuário não tem acesso.
 
+1 Passo feito: git clone https://github.com/viniciuslima30/atividadeVersionamento
+2 Passo feito: git checkout master
+3 Passo feito: git pull - puxar atualizações do projeto
+4 Passo feito: git checkout -b criação-da-primeira-branch
+Passos desenvolvidos acima serão commitados
